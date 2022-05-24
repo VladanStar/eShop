@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
 
-import "./Product.css";
+import "./Products.css";
 import ProductItem from "./ProductItem";
 
 export default function Products({ cart, setCart }) {
