@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import "./App.css";
-import "bootstrap/dist/css/bootstrap.min.css";
+// import "bootstrap/dist/css/bootstrap.min.css";
+// import "bootstrap/dist/css/bootstrap/min.css";
 import Products from "./Products Page/Products.js";
 
 import Cart from "./Cart Page/Cart.js";
